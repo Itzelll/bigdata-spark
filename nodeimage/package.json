@@ -1,0 +1,9 @@
+{
+	"name": "node-image",
+	"private": true,
+	"version": "1.0.0",
+	"author": "Itzel Mendez <mmitzel2435@gmail.com>",
+	"dependencies": {
+		"express": "3.2.4"
+	}
+}
